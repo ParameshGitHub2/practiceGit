@@ -1,0 +1,3 @@
+file2 is crated now
+
+now you can see contents an add contents to it
